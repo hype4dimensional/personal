@@ -1,0 +1,23 @@
+      .index-buttons {
+        background-color: red;
+        color: black;
+        border: none;
+        height: 40px;
+        width: 110px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+        vertical-align: top;
+        margin: 0;
+      }
+
+      .index-buttons:hover {
+        background-color: yellow;
+      }
+
+      .index-buttons:active {
+        text-shadow: rgb(197, 175, 175) 1px 0 2px;
+      }
+
+      .index-buttons-container {
+        background-color: red;
+      }
