@@ -3,8 +3,8 @@
         color: white;
         font-size: 16px;
         border: none;
-        height: 40px;
         width: 120px;
+        height: 40px;
         cursor: pointer;
         transition: background-color 0.2s;
         vertical-align: top;
