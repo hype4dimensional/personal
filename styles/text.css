@@ -38,6 +38,7 @@
   display: inline-block;
   font: Times;
   font-size: 16px;
+  margin: 0;
 }
 
 .download-explanation {
