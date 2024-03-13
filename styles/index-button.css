@@ -5,7 +5,7 @@
         border: none;
         font-size: 16px;
         height: 40px;
-        width: 120px;
+        width: 110px;
         cursor: pointer;
         transition: background-color 0.2s;
         vertical-align: top;
@@ -23,7 +23,6 @@
 
       .index-buttons-container {
         background-color: red;
-        white-space: nowrap;
         margin: 0 auto;
         text-align: center;
       }
