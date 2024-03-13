@@ -1,18 +1,18 @@
 .item1 {
   margin-top: 20px;
+  margin-left: 30px;
+  margin-left: 30px;
   display: inline-block;
   width: 100%;
 }
 
 .item1-media {
   display: inline-block;
-  margin-left: 30px;
   width: 60%;
 }
 
 .item1-media-scroll {
   display: inline-block;
-  margin-left: 30px;
   width: 60%;
   background-color: white;
   overflow: auto;
