@@ -1,6 +1,6 @@
       .index-buttons {
         background-color: red;
-        color: black;
+        color: white;
         border: none;
         height: 40px;
         width: 110px;
@@ -12,6 +12,7 @@
 
       .index-buttons:hover {
         background-color: yellow;
+        color: black;
       }
 
       .index-buttons:active {
