@@ -23,6 +23,7 @@
 
       .index-buttons-container {
         background-color: red;
+        white-space: nowrap;
         margin: 0 auto;
         text-align: center;
       }
