@@ -1,5 +1,6 @@
       .index-buttons {
         background-color: red;
+        white-space: nowrap;
         color: white;
         border: none;
         font-size: 16px;
