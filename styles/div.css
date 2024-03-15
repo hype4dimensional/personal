@@ -11,6 +11,11 @@
   width: 60%;
 }
 
+.item2-media {
+  display: inline-block;
+  margin: 5px;
+}
+
 .item1-media-scroll {
   display: inline-block;
   width: 60%;
