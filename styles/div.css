@@ -1,0 +1,32 @@
+.item1 {
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-left: 30px;
+  display: inline-block;
+  width: 100%;
+}
+
+.item1-media {
+  display: inline-block;
+  width: 60%;
+}
+
+.item2-media {
+  display: inline-block;
+  margin: 5px;
+}
+
+.item1-media-scroll {
+  display: inline-block;
+  width: 60%;
+  background-color: white;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.item1-text {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
